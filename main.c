@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #include <stdio.h>
 #include <string.h>
 #include "estoque.h"
@@ -69,4 +67,3 @@ int main(void) {
 
     return 0;
 }
->>>>>>> 784041d (Adiciona categoria aos produtos)
