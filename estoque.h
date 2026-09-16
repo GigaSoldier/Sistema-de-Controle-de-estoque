@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #ifndef ESTOQUE_H
 #define ESTOQUE_H
 
@@ -20,4 +18,3 @@ void listar_produtos(Produto lista[], int total);
 float calcular_total(Produto lista[], int total);
 
 #endif
->>>>>>> 784041d (Adiciona categoria aos produtos)
